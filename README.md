@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Flutter,Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://soumenportfoilo.web.app/#/](https://soumenportfoilo.web.app/#/)
+- 👨‍💻 All of my projects are available at [https://github.com/soumen744488](https://github.com/soumen744488)
 
 - 💬 Ask me about **Android, Java**
 
 - 📫 How to reach me **palsomen306@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TjU77NnPCJEgYJwNOoMvKOsxz-n6KmnH/view?usp=sharing](https://drive.google.com/file/d/1TjU77NnPCJEgYJwNOoMvKOsxz-n6KmnH/view?usp=sharing)
+- 📄 Know about my experiences [https://soumenportfoilo.web.app/#/](https://soumenportfoilo.web.app/#/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

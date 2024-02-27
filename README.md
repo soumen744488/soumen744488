@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/palsoumen748" target="blank"><img align="center" src="Image/twitter.png" alt="palsoumen748" height="30" width="40" /></a>
+<a href="https://twitter.com/palsoumen748" target="blank"><img align="center" src="Image/twitter1.png" alt="palsoumen748" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumen-pal-9a355b154" target="blank"><img align="center" src="Image/linkedin.png" alt="soumen-pal-9a355b154" height="30" width="40" /></a>
 <a href="https://instagram.com/soumen748" target="blank"><img align="center" src="Image/instagram.png" alt="soumen748" height="30" width="40" /></a>
 </p>

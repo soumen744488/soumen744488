@@ -11,15 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/soumen744488](https://github.com/soumen744488)
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Java, java-script, Postgresql**
 
 - 📫 How to reach me **palsomen306@gmail.com**
 
-- 📄 Know about my experiences [https://soumenportfoilo.web.app/#/](https://soumenportfoilo.web.app/#/)
+- 📄 Know about my experiences [https://soumen744488.github.io/soumen_portfolio/](https://soumen744488.github.io/soumen_portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/palsoumen748" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/733/733579.png" alt="palsoumen748" height="30" width="40" /></a>
+<a href="https://twitter.com/palsoumen748" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_5969020?term=twitter&page=1&position=8&origin=search&related_id=5969020" alt="palsoumen748" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumen-pal-9a355b154" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="soumen-pal-9a355b154" height="30" width="40" /></a>
 <a href="https://instagram.com/soumen748" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" alt="soumen748" height="30" width="40" /></a>
 </p>
